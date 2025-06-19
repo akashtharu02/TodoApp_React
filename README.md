@@ -1,6 +1,6 @@
 
 
-Todo Live link : https://monumental-druid-19781b.netlify.app/
+Todo Live link : https://todo-web-app-reactjs-424.netlify.app/
 
 My website (Portfolio) link: https://akashtharu.com.np/
 
